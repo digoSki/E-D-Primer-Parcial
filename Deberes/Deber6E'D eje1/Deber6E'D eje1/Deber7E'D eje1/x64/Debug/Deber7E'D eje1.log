@@ -1,0 +1,57 @@
+﻿  mainCirculo.cpp
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(28,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(32,64): warning C4244: 'argumento': conversión de 'int' a 't'; posible pérdida de datos
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(32,64): warning C4244:         with
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(32,64): warning C4244:         [
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(32,64): warning C4244:             t=float
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(32,64): warning C4244:         ]
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(34,71): warning C4244: 'argumento': conversión de 'int' a 't'; posible pérdida de datos
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(34,71): warning C4244:         with
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(34,71): warning C4244:         [
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(34,71): warning C4244:             t=float
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(34,71): warning C4244:         ]
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(36,70): warning C4244: 'argumento': conversión de 'int' a 't'; posible pérdida de datos
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(36,70): warning C4244:         with
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(36,70): warning C4244:         [
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(36,70): warning C4244:             t=float
+C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(36,70): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(907,31): warning C4244: 'return': conversión de 'double' a '_Rx'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(907,31): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(907,31): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(907,31): warning C4244:             _Rx=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(907,31): warning C4244:         ]
+  (compilando archivo de origen "mainCirculo.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(907,31):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(36,124):
+  	Vea la referencia a la creación de una instancia de la función plantilla "std::function<float (float)>::function<main::<lambda_3>,0>(_Fx &&)" que se está compilando
+          with
+          [
+              _Fx=main::<lambda_3>
+          ]
+  		C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\Deber7E'D eje1\mainCirculo.cpp(36,127):
+  		vea la primera referencia a “std::function<float (float)>::function” en “main”
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(1120,13):
+  	Vea la referencia a la creación de una instancia de la función plantilla "void std::_Func_class<_Ret,float>::_Reset<_Ty>(_Fx &&)" que se está compilando
+          with
+          [
+              _Ret=float,
+              _Ty=main::<lambda_3>,
+              _Fx=main::<lambda_3>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(993,23):
+  	vea la referencia a la plantilla de variables 'const bool _Is_large<std::_Func_impl_no_alloc<`main'::`2'::<lambda_3>,float,float> >' que se está compilando
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(795,13):
+  	Vea la referencia a la creación de una instancia de clase plantilla "std::_Func_impl_no_alloc<main::<lambda_3>,_Ret,float>" que se está compilando
+          with
+          [
+              _Ret=float
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\functional(903,9):
+  	al compilar la función del miembro clase plantilla "_Rx std::_Func_impl_no_alloc<main::<lambda_3>,_Rx,float>::_Do_call(float &&)"
+          with
+          [
+              _Rx=float
+          ]
+  
+  Deber7E'D eje1.vcxproj -> C:\Users\ju4nd\OneDrive\Desktop\Deber7E'D eje1\Deber7E'D eje1\x64\Debug\Deber7E'D eje1.exe

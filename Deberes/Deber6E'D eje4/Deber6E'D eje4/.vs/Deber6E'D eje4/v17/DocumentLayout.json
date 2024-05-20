@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D777B-5E7D-4017-9FEE-439AF7E68BE4}|Deber6E\u0027D eje4\\Deber6E\u0027D eje4.vcxproj|C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D00D777B-5E7D-4017-9FEE-439AF7E68BE4}|Deber6E\u0027D eje4\\Deber6E\u0027D eje4.vcxproj|solutionrelative:Deber6E\u0027D eje4\\Deber6E\u0027D eje4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deber6E\u0027D eje4.cpp",
+              "DocumentMoniker": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4.cpp",
+              "RelativeDocumentMoniker": "Deber6E\u0027D eje4\\Deber6E\u0027D eje4.cpp",
+              "ToolTip": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4\\Deber6E\u0027D eje4.cpp",
+              "RelativeToolTip": "Deber6E\u0027D eje4\\Deber6E\u0027D eje4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T00:22:49.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

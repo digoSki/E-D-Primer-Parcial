@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC9ED47-6247-4BC1-8502-5E6D2F6E975B}|Project1\\Project1.vcxproj|C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\mainPartidos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCC9ED47-6247-4BC1-8502-5E6D2F6E975B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\mainPartidos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC9ED47-6247-4BC1-8502-5E6D2F6E975B}|Project1\\Project1.vcxproj|C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\Partidos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCC9ED47-6247-4BC1-8502-5E6D2F6E975B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Partidos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC9ED47-6247-4BC1-8502-5E6D2F6E975B}|Project1\\Project1.vcxproj|C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\Partidos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCC9ED47-6247-4BC1-8502-5E6D2F6E975B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Partidos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainPartidos.cpp",
+              "DocumentMoniker": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\mainPartidos.cpp",
+              "RelativeDocumentMoniker": "Project1\\mainPartidos.cpp",
+              "ToolTip": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\mainPartidos.cpp",
+              "RelativeToolTip": "Project1\\mainPartidos.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T23:39:30.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Partidos.cpp",
+              "DocumentMoniker": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\Partidos.cpp",
+              "RelativeDocumentMoniker": "Project1\\Partidos.cpp",
+              "ToolTip": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\Partidos.cpp",
+              "RelativeToolTip": "Project1\\Partidos.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T23:38:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Partidos.h",
+              "DocumentMoniker": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\Partidos.h",
+              "RelativeDocumentMoniker": "Project1\\Partidos.h",
+              "ToolTip": "C:\\Users\\ju4nd\\OneDrive\\Desktop\\Deber6E\u0027D\\Project1\\Project1\\Partidos.h",
+              "RelativeToolTip": "Project1\\Partidos.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-16T21:40:26.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
